@@ -45,6 +45,21 @@
     "name": "Oploverz"
   },
   {
+    "iconUrl": "https://otakudesu.best/wp-content/uploads/2017/06/Logo-1.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/AnimeX",
+    "fileSize": 23562,
+    "status": 1,
+    "language": "id",
+    "authors": ["Hexated", "Asm0d3usX"],
+    "tvTypes": ["AnimeMovie", "OVA", "Anime"],
+    "version": 1,
+    "internalName": "Otakudesu",
+    "description": "🎭 Anime Subtitle Indonesia",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/AnimeX/builds/Otakudesu.cs3",
+    "name": "Otakudesu"
+  },
+  {
     "iconUrl": "https://v1.samehadaku.how/wp-content/uploads/2020/04/cropped-download-1-32x32.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/AnimeX",
