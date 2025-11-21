@@ -88,7 +88,7 @@ class Otakudesu : MainAPI() {
 	
 	override suspend fun search(query: String): List<SearchResponse> {
 		val document = app.get("$mainUrl/?s=$query&post_type=anime").document
-		return document.select("div.listupd > div.chivsrc").mapNotNull { it.toSearchResult2() }
+		return document.select("ul.chivsrc > li").mapNotNull { it.toSearchResult2() }
 	}
 
     override suspend fun load(url: String): LoadResponse {
