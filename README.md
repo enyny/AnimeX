@@ -11,6 +11,7 @@
 | Animasu       | Indonesia  | 🔥 Active       |
 | AnimeSail     | Indonesia  | 🔥 Active       |
 | Oploverz      | Indonesia  | 🔥 Active       |
+| Otakudesu     | Indonesia  | 🔥 Active       |
 | Samehadaku    | Indonesia  | 🔥 Active       |
 | Zoronime      | Indonesia  | 🔥 Active       |
 
